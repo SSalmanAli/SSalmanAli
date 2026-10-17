@@ -12,8 +12,9 @@ I build fast, clean interfaces and the data and services behind them, especially
 
 ## Experience highlights
 
-- **CoinEcho:** A Crypto Alert Based Chatbot running on your whatsapp
-- **[Crypto fleet project]:** Full Crypto Trading Platform
+- **CoinEcho:** A Crypto Alert Based Chatbot running on your whatsapp 
+- **Crypto fleet project:** Full Crypto Trading Platform -> https://www.cryptofleet.io/
+- **Coin Geeks:** Cryto News Sharing platform -> https://crypto-geeks-alpha.vercel.app/
 
 
 ## Tech stack
